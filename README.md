@@ -1,5 +1,9 @@
 # GraphicsMidterm
- 
+
+The Scripts can be found under the Assets folder.
+The main build can be found under the Midterm build folder
+
+
 First Shader
 The first shader I implemented was the Space Ship Shader. This shader can be used to render the ship with a variety of bump height. Giving control over how much of the diffuse textures underlying details are emphasised. By increasing the bump amount a large emphasis can be placed on the details of the ship and its texture(s) without needing to add or modify geometry which can cause performence decreases.
 
